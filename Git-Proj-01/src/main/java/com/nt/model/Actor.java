@@ -1,15 +1,12 @@
 package com.nt.model;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-@Component("a1")
+@Component
 public class Actor {
+	@Value("${act.name}")
 	String name;
-
-	public Actor(String name) {
-		super();
-		this.name = name;
-	}
 	
 	public void showName() {
 		System.out.println("Name :: "+name);
