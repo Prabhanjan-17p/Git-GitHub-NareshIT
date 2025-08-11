@@ -10,7 +10,17 @@ public class Arithmetic {
 		//adding two value
 	}
 	
+	public void sub() {
+		System.out.println("subtract");
+	}
+	
+	public void mul() {
+		System.out.println("--- Subtract ---");
+	}
+
 	public void div() {
 		System.out.println("--- Division ---");
 	}
+	
+	
 }
