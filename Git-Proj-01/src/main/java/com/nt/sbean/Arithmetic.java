@@ -9,4 +9,8 @@ public class Arithmetic {
 
 		//adding two value
 	}
+	
+	public void div() {
+		System.out.println("--- Division ---");
+	}
 }
