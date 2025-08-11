@@ -11,6 +11,9 @@ public class Arithmetic {
 	}
 
 	
+	public void sub() {
+		System.out.println("subtract");
+	}
 	public void mul() {
 		System.out.println("--- Subtract ---");
 	}
