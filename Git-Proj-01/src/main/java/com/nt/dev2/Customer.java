@@ -8,4 +8,8 @@ public class Customer {
 	public void addMiss() {
 		System.out.println("adding for testing purpose!");
 	}
+	
+	public void outMiss() {
+		System.out.println("Customer.outMiss()");
+	}
 }
