@@ -9,8 +9,8 @@ public class Arithmetic {
 
 		//adding two value
 	}
-	
 
+	
 	public void mul() {
 		System.out.println("--- Subtract ---");
 	}
