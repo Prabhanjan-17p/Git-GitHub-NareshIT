@@ -18,4 +18,5 @@ public class Arithmetic {
 	public void div() {
 		System.out.println("--- Division ---");
 	}
+	
 }
